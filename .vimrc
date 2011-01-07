@@ -145,4 +145,4 @@ if $COLORTERM == 'gnome-terminal'
     endif
 
 
-colorscheme zenburn
+" colorscheme zenburn
